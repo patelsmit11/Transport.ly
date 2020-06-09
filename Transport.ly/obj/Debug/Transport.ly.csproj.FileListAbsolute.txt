@@ -1,0 +1,10 @@
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Debug\Transport.ly.exe.config
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Debug\Transport.ly.exe
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Debug\Transport.ly.pdb
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Debug\Transport.ly.csproj.CoreCompileInputs.cache
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Debug\Transport.ly.csproj.CopyComplete
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Debug\Transport.ly.exe
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Debug\Transport.ly.pdb
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Debug\Transport.ly.csprojAssemblyReference.cache

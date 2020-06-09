@@ -1,0 +1,9 @@
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Release\Transport.ly.Console.exe.config
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Release\Transport.ly.Console.exe
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Release\Transport.ly.Console.pdb
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Release\Newtonsoft.Json.dll
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\bin\Release\Newtonsoft.Json.xml
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Release\Transport.ly.Console.csproj.CoreCompileInputs.cache
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Release\Transport.ly.Console.csproj.CopyComplete
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Release\Transport.ly.Console.exe
+C:\Users\smit.patel\source\repos\Transport.ly\Transport.ly\obj\Release\Transport.ly.Console.pdb
